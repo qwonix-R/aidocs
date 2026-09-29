@@ -1,0 +1,1 @@
+code --install-extension aidocs-0.0.1.vsix --force
